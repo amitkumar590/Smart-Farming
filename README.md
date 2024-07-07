@@ -59,10 +59,6 @@ In our frontend code, we implemented various algorithms to process sensor data a
 
 ## Results
 
-# Smart Farming using IoT
-
-## Results
-
 <table>
   <tr>
     <td><img src="./images/UI/splash-screen.png" alt="User Interface" width="400"/></td>
