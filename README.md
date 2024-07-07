@@ -58,12 +58,12 @@ In our frontend code, we implemented various algorithms to process sensor data a
 
 ## Results
 
-![User Interface](./images/UI/splash-screen.png)
-![](./images/UI/home-screen.png)
-![](./images/UI/home-screen1.png)
-![](./images/UI/controls.png)
-![](./images/UI/controls2.png)
-![](./images/UI/alerts.png)
+<img src="./images/UI/splash-screen.png" alt="User Interface" width="400"/>
+<img src="./images/UI/home-screen.png"  width="400"/>
+<img src="./images/UI/home-screen1.png"  width="400"/>
+<img src="./images/UI/controls.png"  width="400"/>
+<img src="./images/UI/controls2.png"  width="400"/>
+<img src="./images/UI/alerts.png"  width="400"/>
 
 Our Smart Farming project yielded promising outcomes, as evidenced by the intuitive user interface designed to empower farmers with real-time insights and actionable data. The UI provides farmers with an intuitive dashboard where they can monitor crucial environmental parameters such as soil moisture, temperature, humidity, and gas levels at a glance. By leveraging interactive charts and visualizations, users can easily interpret complex data trends and make informed decisions to optimize crop management practices.
 
