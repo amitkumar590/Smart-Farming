@@ -27,14 +27,15 @@ In our project, we utilized various hardware components to capture environmental
 - **MQ-7 Carbon Monoxide (CO) Sensor**: Detects carbon monoxide levels in the environment.
 - **LED Lights**: Integrated into the system for visual feedback or indication purposes. Three LEDs were utilized, each representing a different status or state (red, yellow, green).
 - **Servo Motor**: Employed for motor control tasks in the system, controlling the movement of mechanical components.
-![](./images/sensors1.png)
-![](./images/sensors2.png)
+<img src="./images/sensors1.png" width="400"/>
+<img src="./images/sensors2.png" width="400"/>
+
 
 ### Circuit
 
-![Input sensors connected circuit](./images/circuit1.png)
-![Input sensors connected circuit(Different Angle)](./images/circuit2.png)
-![Servo motor and LED circuit connection](./images/circuit3.png)
+<img src="./images/circuit1.png" width="600"/>
+<img src="./images/circuit2.png" width="600"/>
+<img src="./images/circuit3.png" width="600"/>
 
 ### Software Tools
 
