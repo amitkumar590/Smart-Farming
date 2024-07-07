@@ -62,7 +62,6 @@ In our frontend code, we implemented various algorithms to process sensor data a
 <table>
   <tr>
     <td><img src="./images/UI/splash-screen.png" alt="User Interface" width="400"/></td>
-    
     <td><img src="./images/UI/home-screen.png" alt="Home Screen" width="400"/></td>
   </tr>
   <tr>
