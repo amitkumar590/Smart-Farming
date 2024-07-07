@@ -1,0 +1,2314 @@
+DEBUG:root:Starting Flask server
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.1.4:5010/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+DEBUG:root:Starting Flask server
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-273-664
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 17:58:28] "GET / HTTP/1.1" 200 -
+DEBUG:fsevents:NativeEvent(path="/Users/amitkumar/Desktop/Sem6/WSN/flask_server.py", inode=93012427, flags=11400, id=504500495): is_file, is_inode_meta_mod, is_modified
+DEBUG:fsevents:queue_event <FileModifiedEvent: event_type=modified, src_path='/Users/amitkumar/Desktop/Sem6/WSN/flask_server.py', is_directory=False>
+INFO:werkzeug: * Detected change in '/Users/amitkumar/Desktop/Sem6/WSN/flask_server.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+DEBUG:root:Starting Flask server
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-273-664
+DEBUG:fsevents:NativeEvent(path="/Users/amitkumar/Desktop/Sem6/WSN/flask_server.py", inode=93012427, flags=410000, id=504500533): is_cloned, is_file
+DEBUG:fsevents:NativeEvent(path="/Users/amitkumar/Desktop/Sem6/WSN/flask_server.log", inode=93030034, flags=410000, id=504500548): is_cloned, is_file
+DEBUG:fsevents:NativeEvent(path="/Users/amitkumar/Desktop/Sem6/WSN/flask_server.log", inode=93030034, flags=11400, id=504500972): is_file, is_inode_meta_mod, is_modified
+DEBUG:fsevents:queue_event <FileModifiedEvent: event_type=modified, src_path='/Users/amitkumar/Desktop/Sem6/WSN/flask_server.log', is_directory=False>
+DEBUG:fsevents:NativeEvent(path="/Users/amitkumar/Desktop/Sem6/WSN/flask_server.log", inode=93030034, flags=410000, id=504500987): is_cloned, is_file
+DEBUG:root:Starting Flask server
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.1.4:5010/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+DEBUG:root:Starting Flask server
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-273-664
+DEBUG:fsevents:NativeEvent(path="/Users/amitkumar/Desktop/Sem6/WSN/arduino_data_to_flask.py", inode=93012197, flags=11400, id=504503222): is_file, is_inode_meta_mod, is_modified
+DEBUG:fsevents:queue_event <FileModifiedEvent: event_type=modified, src_path='/Users/amitkumar/Desktop/Sem6/WSN/arduino_data_to_flask.py', is_directory=False>
+INFO:werkzeug: * Detected change in '/Users/amitkumar/Desktop/Sem6/WSN/arduino_data_to_flask.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+DEBUG:root:Starting Flask server
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-273-664
+DEBUG:fsevents:NativeEvent(path="/Users/amitkumar/Desktop/Sem6/WSN/arduino_data_to_flask.py", inode=93012197, flags=11400, id=504503413): is_file, is_inode_meta_mod, is_modified
+DEBUG:fsevents:queue_event <FileModifiedEvent: event_type=modified, src_path='/Users/amitkumar/Desktop/Sem6/WSN/arduino_data_to_flask.py', is_directory=False>
+INFO:werkzeug: * Detected change in '/Users/amitkumar/Desktop/Sem6/WSN/arduino_data_to_flask.py', reloading
+DEBUG:fsevents:NativeEvent(path="/Users/amitkumar/Desktop/Sem6/WSN/arduino_data_to_flask.py", inode=93012197, flags=410000, id=504503439): is_cloned, is_file
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+DEBUG:root:Starting Flask server
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-273-664
+DEBUG:fsevents:NativeEvent(path="/Users/amitkumar/Desktop/Sem6/WSN/arduino_data_to_flask.py", inode=93012197, flags=11400, id=504504313): is_file, is_inode_meta_mod, is_modified
+DEBUG:fsevents:queue_event <FileModifiedEvent: event_type=modified, src_path='/Users/amitkumar/Desktop/Sem6/WSN/arduino_data_to_flask.py', is_directory=False>
+INFO:werkzeug: * Detected change in '/Users/amitkumar/Desktop/Sem6/WSN/arduino_data_to_flask.py', reloading
+DEBUG:fsevents:NativeEvent(path="/Users/amitkumar/Desktop/Sem6/WSN/arduino_data_to_flask.py", inode=93012197, flags=11400, id=504504340): is_file, is_inode_meta_mod, is_modified
+DEBUG:fsevents:queue_event <FileModifiedEvent: event_type=modified, src_path='/Users/amitkumar/Desktop/Sem6/WSN/arduino_data_to_flask.py', is_directory=False>
+INFO:werkzeug: * Detected change in '/Users/amitkumar/Desktop/Sem6/WSN/arduino_data_to_flask.py', reloading
+DEBUG:fsevents:NativeEvent(path="/Users/amitkumar/Desktop/Sem6/WSN/arduino_data_to_flask.py", inode=93012197, flags=410000, id=504504352): is_cloned, is_file
+DEBUG:fsevents:NativeEvent(path="/Users/amitkumar/Desktop/Sem6/WSN/arduino_data_to_flask.py", inode=93012197, flags=11400, id=504504425): is_file, is_inode_meta_mod, is_modified
+DEBUG:fsevents:queue_event <FileModifiedEvent: event_type=modified, src_path='/Users/amitkumar/Desktop/Sem6/WSN/arduino_data_to_flask.py', is_directory=False>
+INFO:werkzeug: * Detected change in '/Users/amitkumar/Desktop/Sem6/WSN/arduino_data_to_flask.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+DEBUG:root:Starting Flask server
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-273-664
+DEBUG:fsevents:NativeEvent(path="/Users/amitkumar/Desktop/Sem6/WSN/arduino_data_to_flask.py", inode=93012197, flags=11400, id=504504715): is_file, is_inode_meta_mod, is_modified
+DEBUG:fsevents:queue_event <FileModifiedEvent: event_type=modified, src_path='/Users/amitkumar/Desktop/Sem6/WSN/arduino_data_to_flask.py', is_directory=False>
+INFO:werkzeug: * Detected change in '/Users/amitkumar/Desktop/Sem6/WSN/arduino_data_to_flask.py', reloading
+DEBUG:fsevents:NativeEvent(path="/Users/amitkumar/Desktop/Sem6/WSN/arduino_data_to_flask.py", inode=93012197, flags=410000, id=504504721): is_cloned, is_file
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+DEBUG:root:Starting Flask server
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-273-664
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '32.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 32.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:16] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '33.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 33.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:17] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '33.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 33.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:18] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '33.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 33.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:19] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '33.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 33.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:20] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '33.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 33.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:21] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '33.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 33.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:22] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '33.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 33.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:23] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '33.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 33.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:24] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '33.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 33.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:25] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '33.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 33.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:26] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '33.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 33.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:27] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '33.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 33.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:28] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '33.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 33.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:29] "POST /data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:30] "GET / HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '33.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 33.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:30] "POST /data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:30] "GET / HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '33.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 33.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:31] "POST /data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:32] "GET / HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '33.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 33.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:32] "POST /data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:32] "GET / HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '33.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 33.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:33] "POST /data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:34] "GET / HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '33.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 33.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:34] "POST /data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:35] "GET / HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '33.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 33.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:35] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '33.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 33.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:36] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '33.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 33.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:37] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '33.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 33.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:38] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '33.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 33.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:39] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '33.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 33.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:40] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '33.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 33.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:41] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '33.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 33.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:42] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '33.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 33.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:43] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '33.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 33.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:44] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '33.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 33.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:45] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '33.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 33.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:46] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '33.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 33.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:47] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '33.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 33.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:48] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '33.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 33.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:49] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '33.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 33.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:50] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '33.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 33.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:51] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '33.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 33.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:52] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '33.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 33.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:53] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '33.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 33.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:55] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '34.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 34.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:56] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '34.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 34.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:57] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '34.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 34.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:58] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '34.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 34.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:02:59] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '34.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 34.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:03:00] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '34.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 34.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:03:01] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '34.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 34.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:03:02] "POST /data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:03:02] "GET / HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '34.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 34.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:03:03] "POST /data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:03:03] "GET / HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '34.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 34.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:03:04] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '34.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 34.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:03:05] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '34.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 34.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:03:06] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '34.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 34.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:03:07] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '34.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 34.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:03:08] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '34.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 34.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:03:09] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '34.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 34.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:03:10] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '34.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 34.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:03:11] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '34.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 34.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:03:12] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '34.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 34.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:03:13] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '34.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 34.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:03:14] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '34.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 34.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:03:15] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '34.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 34.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:03:16] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '34.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 34.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:03:17] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '34.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 34.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:03:18] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '34.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 34.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:03:19] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '34.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 34.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:03:20] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '34.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 34.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:03:21] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '34.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 34.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:03:22] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '34.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 34.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:03:23] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '34.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 34.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:03:24] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '34.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 34.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:03:25] "POST /data HTTP/1.1" 200 -
+DEBUG:fsevents:NativeEvent(path="/Users/amitkumar/Desktop/Sem6/WSN/flask_server.py", inode=93012427, flags=11400, id=504507307): is_file, is_inode_meta_mod, is_modified
+DEBUG:fsevents:queue_event <FileModifiedEvent: event_type=modified, src_path='/Users/amitkumar/Desktop/Sem6/WSN/flask_server.py', is_directory=False>
+INFO:werkzeug: * Detected change in '/Users/amitkumar/Desktop/Sem6/WSN/flask_server.py', reloading
+DEBUG:root:Received data: {'temperature': '33.00', 'humidity': '34.00'}
+DEBUG:root:Temperature: 33.00, Humidity: 34.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:03:26] "POST /data HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+DEBUG:root:Starting Flask server
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-273-664
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:27:50] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:27:51] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:27:52] "POST /data HTTP/1.1" 200 -
+DEBUG:fsevents:NativeEvent(path="/Users/amitkumar/Desktop/Sem6/WSN/flask_server.py", inode=93012427, flags=11400, id=504581633): is_file, is_inode_meta_mod, is_modified
+DEBUG:fsevents:queue_event <FileModifiedEvent: event_type=modified, src_path='/Users/amitkumar/Desktop/Sem6/WSN/flask_server.py', is_directory=False>
+INFO:werkzeug: * Detected change in '/Users/amitkumar/Desktop/Sem6/WSN/flask_server.py', reloading
+DEBUG:fsevents:NativeEvent(path="/Users/amitkumar/Desktop/Sem6/WSN/flask_server.py", inode=93012427, flags=410000, id=504581654): is_cloned, is_file
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:27:53] "POST /data HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+DEBUG:root:Starting Flask server
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-273-664
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:27:54] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:27:55] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:27:56] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:27:57] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:27:58] "POST /data HTTP/1.1" 200 -
+DEBUG:fsevents:NativeEvent(path="/Users/amitkumar/Desktop/Sem6/WSN/flask_server.py", inode=93012427, flags=11400, id=504581977): is_file, is_inode_meta_mod, is_modified
+DEBUG:fsevents:queue_event <FileModifiedEvent: event_type=modified, src_path='/Users/amitkumar/Desktop/Sem6/WSN/flask_server.py', is_directory=False>
+INFO:werkzeug: * Detected change in '/Users/amitkumar/Desktop/Sem6/WSN/flask_server.py', reloading
+DEBUG:fsevents:NativeEvent(path="/Users/amitkumar/Desktop/Sem6/WSN/flask_server.py", inode=93012427, flags=410000, id=504581989): is_cloned, is_file
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:27:59] "POST /data HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+DEBUG:root:Starting Flask server
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-273-664
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:00] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:01] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:02] "POST /data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:03] "GET / HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:03] "POST /data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:04] "GET / HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:04] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:05] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:06] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:07] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:08] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:09] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:10] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:11] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:13] "POST /data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:13] "GET / HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:14] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:15] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:16] "POST /data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:16] "GET / HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:17] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:18] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:19] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:20] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:21] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:22] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:23] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '59.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 59.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:24] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '62.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 62.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:25] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '63.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 63.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:26] "POST /data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:26] "GET / HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '63.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 63.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:27] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '62.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 62.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:28] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '61.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 61.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:29] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '60.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 60.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:30] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '58.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 58.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:31] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '57.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 57.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:32] "POST /data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:33] "GET / HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '56.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 56.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:33] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '55.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 55.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:34] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '55.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 55.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:35] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '54.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 54.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:36] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '53.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 53.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:37] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '53.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 53.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:38] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '52.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 52.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:39] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '52.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 52.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:40] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '52.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 52.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:41] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '51.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 51.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:42] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '51.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 51.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:43] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '51.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 51.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:44] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '51.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 51.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:45] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '50.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 50.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:46] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '50.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 50.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:47] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '50.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 50.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:48] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '50.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 50.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:49] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '50.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 50.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:50] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '50.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 50.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:51] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '50.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 50.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:52] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '50.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 50.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:53] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '50.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 50.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:54] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:56] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:57] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:58] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:28:59] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:00] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:01] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:02] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:03] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:04] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:05] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:06] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:07] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:08] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:09] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:10] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:11] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:12] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:13] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:14] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:15] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:16] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:17] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:18] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:19] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:20] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:21] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:22] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:23] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:24] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:25] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:26] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:27] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:28] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:29] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:30] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:31] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:32] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:33] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:34] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:35] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:36] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:38] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:39] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:40] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:41] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:42] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:43] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:44] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:45] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:46] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:47] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:48] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:49] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:50] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:51] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:52] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:53] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:54] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:55] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:56] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:57] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:58] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:29:59] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:00] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:01] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:02] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:03] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:04] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:05] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:06] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:07] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:08] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:09] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '49.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 49.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:10] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:11] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:12] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:13] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:14] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:15] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:16] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:17] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:18] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:19] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:20] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:21] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:22] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:24] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:25] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:26] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:27] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:28] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:29] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:30] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:31] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:32] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:33] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:34] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:35] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:36] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:37] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:38] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:39] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:40] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:41] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:42] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:43] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:44] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:45] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:46] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:47] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:48] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:49] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:50] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:51] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:52] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:53] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:54] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:55] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:56] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:57] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:58] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:30:59] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:00] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:01] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:02] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:03] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:04] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:05] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:07] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:08] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:09] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:10] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:11] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:12] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:13] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:14] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:15] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:16] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:17] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:18] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:19] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:20] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:21] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:22] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:23] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:24] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:25] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:26] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:27] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:28] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:29] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:30] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:31] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:32] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:33] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:34] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:35] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:36] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:37] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:38] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:39] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:40] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:41] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:42] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:43] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:44] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:45] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:46] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:47] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:48] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:49] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:51] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:52] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:53] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:54] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:55] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:56] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:57] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:58] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:31:59] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:00] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:01] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:02] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:03] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:04] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:05] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:06] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:07] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:08] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:09] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:10] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:11] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:12] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:13] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:14] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:15] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:16] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:17] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:18] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:19] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:20] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:21] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:22] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:23] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:24] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:25] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:26] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:27] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:28] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:29] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:30] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:31] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:32] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:34] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:35] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:36] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:37] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:38] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:39] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:40] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:41] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:42] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:43] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:44] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:45] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:46] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:47] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:48] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:49] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:50] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:51] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:52] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:53] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:54] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:55] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:56] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:57] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:58] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:32:59] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:00] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:01] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:02] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:03] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:04] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:05] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:06] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:07] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:08] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:09] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:10] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:11] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:12] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:13] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:14] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:15] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:17] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:18] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:19] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:20] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:21] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:22] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:23] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:24] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:25] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:26] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:27] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:28] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:29] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:30] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:31] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:32] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:33] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:34] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:35] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:36] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:37] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:38] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:39] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:40] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:41] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:42] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:43] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:44] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:45] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:46] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:47] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:48] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:49] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:50] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:51] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:52] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:53] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:54] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:55] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:56] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:57] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:58] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:33:59] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:01] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:02] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:03] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:04] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:05] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:06] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:07] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:08] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:09] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:10] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:11] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:12] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:13] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:14] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:15] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:16] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:17] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:18] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:19] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:20] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:21] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:22] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:23] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:24] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:25] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:26] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:27] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:28] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:29] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:30] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:31] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:32] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:33] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:34] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:35] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:36] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:37] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:38] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:39] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:40] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:41] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:42] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:44] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:45] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:46] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:47] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:48] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:49] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:50] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:51] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:52] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:53] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:54] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:55] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:56] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:57] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:58] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:34:59] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:00] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:01] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:02] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:03] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:04] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:05] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:06] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:07] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:08] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:09] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:10] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:11] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:12] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:13] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:14] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:15] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:16] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:17] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:18] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:19] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:20] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:21] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:22] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:23] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:24] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:25] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:27] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:28] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:29] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:30] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:31] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:32] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:33] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:34] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:35] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:36] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:37] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:38] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:39] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:40] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:41] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:42] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:43] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:44] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:45] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:46] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:47] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:48] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:49] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:50] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:51] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:52] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:53] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:54] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:55] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:56] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:57] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:58] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:35:59] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:00] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:01] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:02] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:03] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:04] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:05] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:06] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:07] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:08] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:09] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:11] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:12] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:13] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:14] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:15] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:16] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:17] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:18] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:19] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:20] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:21] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:22] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:23] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:24] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:25] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:26] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:27] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:28] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:29] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:30] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:31] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:32] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:33] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:34] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:35] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:36] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:37] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:38] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:39] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:40] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:41] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:42] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:43] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:44] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:45] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:46] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:47] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:48] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:49] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:50] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:51] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:52] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:53] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:55] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:56] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:57] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:58] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:36:59] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:00] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:01] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:02] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:03] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:04] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:05] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:06] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:07] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:08] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:09] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:10] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:11] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:12] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:13] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:14] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:15] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:16] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:17] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:18] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:19] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:20] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:21] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:22] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:23] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:24] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:25] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:26] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:27] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:28] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:29] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:30] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:31] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:32] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:33] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:34] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:35] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:36] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:38] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:39] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:40] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:41] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:42] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:43] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:44] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:45] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:46] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:47] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:48] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:49] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:50] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:51] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:52] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:53] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:54] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:55] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:56] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:57] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:58] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:37:59] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:00] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:01] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:02] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:03] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:04] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:05] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:06] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:07] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:08] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:09] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:10] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:11] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:12] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:13] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:14] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:15] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:16] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:17] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:18] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:19] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:21] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:22] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:23] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:24] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:25] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:26] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:27] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:28] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:29] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:30] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:31] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:32] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:33] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:34] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:35] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:36] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:37] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:38] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:39] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:40] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:41] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:42] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:43] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:44] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:45] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:46] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:47] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:48] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:49] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:50] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:51] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:52] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:53] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:54] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:55] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:56] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:57] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:58] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:38:59] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:39:00] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:39:01] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:39:02] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:39:04] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '48.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 48.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:39:05] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:39:06] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:39:07] "POST /data HTTP/1.1" 200 -
+DEBUG:root:Received data: {'temperature': '32.00', 'humidity': '47.00'}
+DEBUG:root:Temperature: 32.00, Humidity: 47.00
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 18:39:08] "POST /data HTTP/1.1" 200 -

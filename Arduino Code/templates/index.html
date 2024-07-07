@@ -1,0 +1,23 @@
+<!-- index.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Flask Web App</title>
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='styles.css') }}"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Current Temperature and Humidity</h1>
+      <div class="data">
+        <p>Temperature: {{ latest_data.temperature }} &deg;C</p>
+        <p>Humidity: {{ latest_data.humidity }} %</p>
+      </div>
+    </div>
+  </body>
+</html>
