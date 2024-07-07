@@ -58,12 +58,31 @@ In our frontend code, we implemented various algorithms to process sensor data a
 
 ## Results
 
-<img src="./images/UI/splash-screen.png" alt="User Interface" width="400"/>
-<img src="./images/UI/home-screen.png"  width="400"/>
-<img src="./images/UI/home-screen1.png"  width="400"/>
-<img src="./images/UI/controls.png"  width="400"/>
-<img src="./images/UI/controls2.png"  width="400"/>
-<img src="./images/UI/alerts.png"  width="400"/>
+# Smart Farming using IoT
+
+## Results
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <div style="flex: 0 0 45%; margin: 1%;">
+        <img src="./images/UI/splash-screen.png" alt="User Interface" width="100%"/>
+    </div>
+    <div style="flex: 0 0 45%; margin: 1%;">
+        <img src="./images/UI/home-screen.png" alt="Home Screen" width="100%"/>
+    </div>
+    <div style="flex: 0 0 45%; margin: 1%;">
+        <img src="./images/UI/home-screen1.png" alt="Home Screen 1" width="100%"/>
+    </div>
+    <div style="flex: 0 0 45%; margin: 1%;">
+        <img src="./images/UI/controls.png" alt="Controls" width="100%"/>
+    </div>
+    <div style="flex: 0 0 45%; margin: 1%;">
+        <img src="./images/UI/controls2.png" alt="Controls 2" width="100%"/>
+    </div>
+    <div style="flex: 0 0 45%; margin: 1%;">
+        <img src="./images/UI/alerts.png" alt="Alerts" width="100%"/>
+    </div>
+</div>
+
 
 Our Smart Farming project yielded promising outcomes, as evidenced by the intuitive user interface designed to empower farmers with real-time insights and actionable data. The UI provides farmers with an intuitive dashboard where they can monitor crucial environmental parameters such as soil moisture, temperature, humidity, and gas levels at a glance. By leveraging interactive charts and visualizations, users can easily interpret complex data trends and make informed decisions to optimize crop management practices.
 
